@@ -1,0 +1,48 @@
+18:41:37.072 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+18:41:37.182 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Password entered successfully
+18:41:43.880 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+18:41:43.963 [main] INFO  stepDefinitions.BankLoginStepDefinition - Login Success
+18:41:44.457 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test pass
+18:41:47.100 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+18:41:47.100 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:41:54.813 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+18:41:54.814 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:41:54.967 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+18:41:55.063 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Invalid Password entered successfully
+18:42:01.684 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+18:42:01.785 [main] INFO  stepDefinitions.BankLoginStepDefinition - Invalid Login
+18:42:02.136 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test pass
+18:42:04.839 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+18:42:04.839 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:42:15.399 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+18:42:15.399 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:42:21.675 [main] INFO  stepDefinitions.BankRegistrationStepDefinition - User is on Bank Login Page
+18:42:21.977 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User selected title successfully
+18:42:22.119 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered first name successfully
+18:42:22.234 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered last name successfully
+18:42:22.315 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User selected gender successfully
+18:42:22.439 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered dob successfully
+18:42:22.549 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered ssn successfully
+18:42:22.706 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered email successfully
+18:42:22.810 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered password successfully
+18:42:22.962 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User enters his password again successfully
+18:42:28.848 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User clicked on Next button successfully
+18:42:28.849 [main] INFO  stepDefinitions.BankRegistrationStepDefinition - User lands on Bank registration Page 2
+18:42:29.026 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered his address successfully
+18:42:29.110 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered his locality successfully
+18:42:29.198 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered his region successfully
+18:42:29.295 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered his zipcode successfully
+18:42:29.381 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered his country successfully
+18:42:29.491 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered his home phone number successfully
+18:42:29.599 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered his Mobile No successfully
+18:42:29.691 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User entered his Work No successfully
+18:42:29.768 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User checked terms and conditions checkbox successfully
+18:42:35.856 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User clicked register button successfully
+18:42:35.927 [main] DEBUG stepDefinitions.BankRegistrationStepDefinition - User registers successfully and lands on login screen
+18:42:36.291 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test pass
+18:42:38.923 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+18:42:38.924 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:42:47.149 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+18:42:47.149 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:42:54.363 [main] INFO  stepDefinitions.ChangePasswordStepDefinition - Login successful
+18:43:14.987 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure

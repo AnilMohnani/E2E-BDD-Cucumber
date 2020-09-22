@@ -1,0 +1,53 @@
+18:43:17.628 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+18:43:17.631 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:43:25.972 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+18:43:25.973 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:43:34.173 [main] INFO  stepDefinitions.ChangePasswordStepDefinition - Login successful
+18:43:54.867 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure
+18:43:57.319 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+18:43:57.320 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:44:10.806 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+18:44:10.806 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:44:18.458 [main] INFO  stepDefinitions.LogoutStepDefinition - Login is successful.
+18:44:38.941 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure
+18:44:41.628 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+18:44:41.628 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:44:52.128 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+18:44:52.128 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:45:01.204 [main] INFO  stepDefinitions.UpdateProfileStepDefinition - User is on home page
+18:45:21.804 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure
+18:45:24.445 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+18:45:24.445 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:45:35.373 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+18:45:35.373 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:45:44.969 [main] INFO  stepDefinitions.VisaTransferStepDefinition - Login Successful.
+18:45:45.162 [main] DEBUG stepDefinitions.VisaTransferStepDefinition - Visa Direct Link clicked Successfully.
+18:45:54.082 [main] DEBUG stepDefinitions.VisaTransferStepDefinition - Visa Transfer Link clicked Successfully.
+18:45:54.914 [main] DEBUG stepDefinitions.VisaTransferStepDefinition - Account selected Successfully.
+18:45:55.116 [main] DEBUG stepDefinitions.VisaTransferStepDefinition - Visa amount entered for transfer.
+18:46:01.940 [main] DEBUG stepDefinitions.VisaTransferStepDefinition - Submit button clicked successfully.s
+18:46:01.994 [main] INFO  stepDefinitions.VisaTransferStepDefinition - Visa Payment successful.
+18:46:02.356 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test pass
+18:46:03.106 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+18:46:03.106 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:52:48.577 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+18:52:48.611 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+18:52:59.811 [main] INFO  stepDefinitions.UpdateProfileStepDefinition - User is on home page
+18:53:09.790 [main] INFO  stepDefinitions.UpdateProfileStepDefinition - User is on my profile screen
+18:53:34.159 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test pass
+18:53:34.921 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+18:53:34.921 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+00:24:05.450 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+00:24:05.457 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+00:24:13.553 [main] INFO  stepDefinitions.TransactionsStepDefinition - Login successful
+00:24:33.845 [main] ERROR com.cucumberFramework.helper.BrowserActions - Element Not Found
+00:24:33.847 [main] DEBUG stepDefinitions.TransactionsStepDefinition - Transactions menu clicked.
+00:24:53.899 [main] ERROR com.cucumberFramework.helper.BrowserActions - Element Not Found
+00:24:53.901 [main] DEBUG stepDefinitions.TransactionsStepDefinition - Withdraw amount option clicked.
+00:24:53.902 [main] INFO  stepDefinitions.TransactionsStepDefinition - User lands on Withdraw amount Screen
+00:25:13.924 [main] ERROR com.cucumberFramework.helper.BrowserActions - Value cannot be selected
+00:25:13.924 [main] DEBUG stepDefinitions.TransactionsStepDefinition - Account Selected for withdraw.
+00:26:52.781 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+00:26:52.807 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+00:27:02.183 [main] INFO  stepDefinitions.TransactionsStepDefinition - Login successful
+00:27:43.094 [main] ERROR com.cucumberFramework.helper.BrowserActions - Element Not Found

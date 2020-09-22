@@ -1,0 +1,44 @@
+17:24:05.434 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+17:24:51.987 [main] ERROR stepDefinitions.Hooks - Website is not working. Url cannot be launched
+17:24:52.263 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+17:24:52.366 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Password entered successfully
+17:25:20.803 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+17:25:20.860 [main] INFO  stepDefinitions.BankLoginStepDefinition - Login Success
+17:25:21.246 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure
+17:25:26.627 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+17:25:26.627 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+17:25:58.663 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+17:25:58.663 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+17:25:58.814 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+17:25:58.930 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Invalid Password entered successfully
+17:26:22.980 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+17:26:23.513 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure
+17:26:24.169 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+17:26:24.169 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+17:30:21.789 [main] ERROR stepDefinitions.Hooks - Website is not working. Url cannot be launched
+17:30:22.055 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+17:30:22.167 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Password entered successfully
+17:30:52.253 [main] ERROR com.cucumberFramework.helper.BrowserActions - Element Not Found
+17:30:52.259 [main] ERROR com.cucumberFramework.helper.BrowserActions - timeout: Timed out receiving message from renderer: 30.000
+  (Session info: chrome=84.0.4147.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IMCBCP74-MSL', ip: '172.31.33.185', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\anilk2\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59642}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f0f0e5d10a3573a0aee032102654683c
+17:30:52.263 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+17:30:52.304 [main] INFO  stepDefinitions.BankLoginStepDefinition - Login Success
+17:30:52.612 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure
+17:30:56.308 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+17:30:56.309 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+17:31:28.958 [main] ERROR stepDefinitions.Hooks - Website is not working. Url cannot be launched
+17:31:29.135 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+17:31:29.218 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Invalid Password entered successfully
+17:31:59.293 [main] ERROR com.cucumberFramework.helper.BrowserActions - Element Not Found
+17:31:59.294 [main] ERROR com.cucumberFramework.helper.BrowserActions - timeout: Timed out receiving message from renderer: 30.000
+  (Session info: chrome=84.0.4147.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IMCBCP74-MSL', ip: '172.31.33.185', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\anilk2\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59836}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 87d44766f74831cb4fa214c7a4dbd965

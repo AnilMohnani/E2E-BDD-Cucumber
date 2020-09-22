@@ -1,0 +1,48 @@
+21:05:55.367 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+21:05:55.573 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Invalid Password entered successfully
+21:06:08.577 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+21:06:09.150 [main] INFO  stepDefinitions.BankLoginStepDefinition - Invalid Login
+21:06:09.657 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure
+21:06:12.447 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+21:06:12.448 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+21:46:44.836 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+21:46:44.853 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+21:46:45.316 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+21:46:45.432 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Password entered successfully
+21:47:15.573 [main] ERROR com.cucumberFramework.helper.BrowserActions - Element Not Found
+21:47:15.585 [main] ERROR com.cucumberFramework.helper.BrowserActions - timeout: Timed out receiving message from renderer: 30.000
+  (Session info: chrome=84.0.4147.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IMCBCP74-MSL', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\anilk2\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60005}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6b11263e6cc0005379980e4ba9d45562
+21:47:15.592 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+21:47:15.645 [main] INFO  stepDefinitions.BankLoginStepDefinition - Login Success
+21:47:16.128 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure
+21:47:20.695 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+21:47:20.696 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+21:47:29.244 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+21:47:29.245 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+21:47:29.375 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+21:47:29.477 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Invalid Password entered successfully
+21:47:34.386 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+21:47:34.917 [main] INFO  stepDefinitions.BankLoginStepDefinition - Invalid Login
+21:47:35.351 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure
+21:47:38.072 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+21:47:38.072 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+21:50:25.265 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+21:50:25.269 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+21:50:25.560 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+21:50:25.681 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Password entered successfully
+21:50:33.422 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+21:50:33.479 [main] INFO  stepDefinitions.BankLoginStepDefinition - Login Success
+21:50:33.944 [main] INFO  stepDefinitions.Hooks - Screenshot attached successfully after test failure
+21:50:38.242 [main] INFO  stepDefinitions.Hooks - Browser closed successfully
+21:50:38.242 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+21:50:47.419 [main] INFO  stepDefinitions.Hooks - Browser launched successfully
+21:50:47.419 [main] INFO  stepDefinitions.Hooks - -------------------------------------------------
+21:50:47.560 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Valid Username entered successfully
+21:50:47.651 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Invalid Password entered successfully
+21:50:53.394 [main] DEBUG stepDefinitions.BankLoginStepDefinition - Sign in button clicked successfully
+21:50:53.632 [main] INFO  stepDefinitions.BankLoginStepDefinition - Invalid Login
